@@ -61,3 +61,5 @@
 * 🌐 https://borailgazparlar.github.io/portfolio
 
 ---
+
+> *“Turning complex problems into elegant code.”*
