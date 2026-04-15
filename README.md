@@ -39,7 +39,7 @@
 * 🔗 **Kelime Macerası:**
   Word-based game developed with C#
 
-* 🤖 **Sense-Route:** IoT tabanlı akıllı atık yönetimi sistemi (ESP8266 & Flutter).
+* 🤖 Sense-Route: IoT-based smart waste management system (ESP8266 & Flutter).
 
 (Actively adding new projects 🚀)
 
