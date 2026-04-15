@@ -1,21 +1,13 @@
 # BoraIlgazParlar ---
 
 <p align="left">
-
   <img src="https://img.shields.io/badge/C%2B%2B-%2320232a.svg?style=flat&logo=c%2B%2B&logoColor=61dafb" />
-
-  <img src="https://img.shields.io/badge/C%23-%2320232a.svg?style=flat&logo=c-sharp&logoColor=61dafb" />
-
+  <img src="https://img.shields.io/badge/C%23-%2320232a.svg?style=flat&logo=csharp&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=flat&logo=python&logoColor=61dafb" />
-
   <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=61dafb" />
-
   <img src="https://img.shields.io/badge/Flutter-%2320232a.svg?style=flat&logo=flutter&logoColor=61dafb" />
-
   <img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=flat&logo=html5&logoColor=61dafb" />
-
   <img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=flat&logo=css3&logoColor=61dafb" />
-
 </p>
 
 ## 🚀 About Me
