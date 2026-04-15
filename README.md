@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=flat&logo=python&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Flutter-%2320232a.svg?style=flat&logo=flutter&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/HTML5-%23121011.svg?style=flat&logo=html5&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/CSS3-%23121011.svg?style=flat&logo=css3&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=flat&logo=html5&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=flat&logo=css3&logoColor=31A8FF" />
 </p>
 
 ## 🚀 About Me
