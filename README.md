@@ -58,7 +58,7 @@
 ### 📜 Certifications
 
 * 🌐 **HTML5 ile Web Geliştirme** — BTK Akademi  
-  [![BTK Akademi](https://img.shields.io/badge/See_The_Certificate?style=flat-square&logo=target&logoColor=white)](./certificates/HTML5_ile_Web_Geliştirme_Sertifika.pdf)
+  [![BTK Akademi](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/HTML5_ile_Web_Geliştirme_Sertifika.pdf)
 
 ---
 
