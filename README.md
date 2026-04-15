@@ -1,7 +1,7 @@
 # BoraIlgazParlar ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-%2320232a.svg?style=flat&logo=c%2B%2B&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2320232a.svg?style=flat&logo=cplusplus&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/C%23-%2320232a.svg?style=flat&logo=csharp&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=flat&logo=python&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=61dafb" />
