@@ -64,7 +64,7 @@
 * 🎨 **CSS Temelleri** — BTK Akademi  
   [![BTK Akademi](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/CSS_Temelleri_Sertifika.pdf)
 * 🐍 **Python Programlama Dili** — BTK Akademi  
-  [![BTK Akademi](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=python&logoColor=white)](./certificates/Python_Programlama_Dili_Sertifika.pdf)
+  [![BTK Akademi](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/Python_Programlama_Dili_Sertifika.pdf)
 
 ---
 
